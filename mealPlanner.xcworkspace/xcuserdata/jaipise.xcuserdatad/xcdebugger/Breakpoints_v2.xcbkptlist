@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF3A6880-3F74-4BDD-BC00-0A1D5C5A0496"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F735AA4-312D-4943-87E9-3A65E5E2226A"
+            shouldBeEnabled = "No"
+            nameForDebugger = "IncompatibleMealType"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mealPlanner/InputMealEatenForm.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,16 @@
+Below are the instructions for running the iOS application that I have developed:
+
+Please note that this only works for the Mac Operating System, so if you are on Windows, I would suggest installing MacOS on a virtual machine
+
+
+
+    1. Download the XCode IDE from this link https://developer.apple.com/xcode/, or simply from the App Store
+        (This application might take a while to download because it is about 20-25 GB in size)
+
+    2. Open up the Product folder of this submission, navigate to the 'mealPlanner' folder and open the mealPlanner.xcworkspace file in XCode
+
+    3. Once the file has been opened in the XCode IDE, at the top of the app, you will see an option to change which device the app will run on - select any of the iPhone 12 models
+
+    4. Finally, click the run button (▸) in the top left 
+
+    5. This will open up the application in an iOS Simulator window and you can navigate through the application.
